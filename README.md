@@ -1,2 +1,2 @@
 # HtmlCss
- Curso HTML5 e CSS3 - ESTUDONAUTA
+ Curso HTML5 e CSS3 do ESTUDONAUTA
